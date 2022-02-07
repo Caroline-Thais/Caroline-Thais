@@ -5,12 +5,10 @@
 <p>🔭 Atualmente estou criando um sistema para restaurante em Node.js => <a href="https://github.com/Caroline-Thais/restaurant-system">--repositório--</a></p>
 <p>🌱 Estou fazendo o curso Formação Node Completa, do Guia do programador. (RECOMENDO!!!)</p>
 <p>📫 Para entrar em contato comigo: caroline.thais.dev@gmail.com </p>
-
+<!--Links para linkedin e gmail:-->
 <p><a href="https://www.linkedin.com/in/tha%C3%ADs-caroline-silva-44362b230/"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="40em" target="_blank"></a>
 &nbsp;&nbsp;
 <a href="mailto:caroline.thais.dev@gmail.com"><img src="https://cdn-icons.flaticon.com/png/512/2875/premium/2875435.png?token=exp=1644252258~hmac=be054d00bc3a8fa124c456cdb890b8ab" height="40em" target="_blank"></a></p>
-
-
 
 <!--Most used languages -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
