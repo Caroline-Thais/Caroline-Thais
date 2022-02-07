@@ -7,8 +7,9 @@
 <p>🌱 Estou fazendo o curso Formação Node Completo, do Guia do programador. (RECOMENDO!!!)</p>
 <p>📫 Para entrar em contato comigo: caroline.thais.dev@gmail.com</p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caroline-thais)](https://github.com/caroline-thais/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caroline-thais&theme=aura&hide=html&layout=compact&langs_count=6" />
+</a>
 
 <!--
 
