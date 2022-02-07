@@ -1,4 +1,4 @@
-<h3>Bem vindo ao meu repositório!✨✨✨</h3>
+<h3>Bem vindo(a) ao meu repositório!✨✨✨</h3>
 
 <p>Meu nome é Thaís Caroline Silva, técnica em informática para internet (programação) pelo Senac.</p>
 
