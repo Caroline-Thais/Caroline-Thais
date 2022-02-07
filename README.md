@@ -1,7 +1,16 @@
-### Hi there 👋
+<h3>Bem vindo ao meu repositório!✨✨✨</h3>
+
+<p>Meu nome é Thaís Caroline Silva, técnica em informática para internet (programação) pelo Senac.</p>
+<p>Apaixonada por desenvolvimento web.</p>
+
+<p>🔭 Atualmente estou desenvolvendo um sistema para restaurante em Node.js => <a href="https://github.com/Caroline-Thais/restaurant-system">--repositório--</a></p>
+<p>🌱 Estou fazendo o curso Formação Node Completo, do Guia do programador. (RECOMENDO!!!)</p>
+<p>📫 Para entrar em contato comigo: caroline.thais.dev@gmail.com</p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caroline-thais)](https://github.com/caroline-thais/github-readme-stats)
 
 <!--
-**Caroline-Thais/Caroline-Thais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
