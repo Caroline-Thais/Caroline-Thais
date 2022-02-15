@@ -3,7 +3,7 @@
 <p>Meu nome é Thaís Caroline Silva, técnica em informática para internet (programação) pelo Senac.</p>
 
 <p>🔭 Atualmente estou criando um sistema para restaurante em Node.js => <a href="https://github.com/Caroline-Thais/restaurant-system">--repositório--</a></p>
-<p>🌱 Estou fazendo o curso Formação Node Completa, do Guia do programador (RECOMENDO!!!) e estudando React.</p>
+<p>🌱 Estou fazendo o curso Formação Node Completa, do Guia do programador. (RECOMENDO!!!)</p>
 <p>📫 Para entrar em contato comigo: caroline.thais.dev@gmail.com </p>
 <!--Links para linkedin e gmail:-->
 <p><a href="https://www.linkedin.com/in/tha%C3%ADs-caroline-silva-44362b230/" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="40em" target="_blank"></a>
