@@ -8,7 +8,7 @@
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
-<h3>Welcome to my repository<h3>
+<h3>Welcome to my repository!<h3>
   
 <p>My name is Thaís Caroline Silva, I'm a computer technician for internet (programming) by Senac.</p>
   
