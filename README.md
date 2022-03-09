@@ -6,7 +6,7 @@
 <p>🌱 Estou fazendo o curso Formação Node Completa, do Guia do programador (RECOMENDO!!!) e estudando React.</p>
 <p>📫 Para entrar em contato comigo: caroline.thais.dev@gmail.com </p>
 
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
 <h3>Welcome to my repository<h3>
   
