@@ -1,4 +1,4 @@
-<h3>Bem vindo(a) ao meu repositório!✨✨✨</h3>
+<h3>Bem vindo(a) ao meu repositório!</h3>
 
 <p>Meu nome é Thaís Caroline Silva, técnica em informática para internet (programação) pelo Senac.</p>
 
@@ -6,7 +6,9 @@
 <p>🌱 Estou fazendo o curso Formação Node Completa, do Guia do programador (RECOMENDO!!!) e estudando React.</p>
 <p>📫 Para entrar em contato comigo: caroline.thais.dev@gmail.com </p>
 
-<h3>Welcome to my repository ✨✨✨<h3>
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+
+<h3>Welcome to my repository<h3>
   
 <p>My name is Thaís Caroline Silva, I'm a computer technician for internet (programming) by Senac.</p>
   
