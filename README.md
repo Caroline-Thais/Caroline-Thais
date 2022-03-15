@@ -3,17 +3,14 @@
 <p>Meu nome é Thaís Caroline Silva, técnica em informática para internet (programação) pelo Senac.</p>
 
 <p>🔭 Atualmente estou criando um sistema para restaurante em Node.js => <a href="https://github.com/Caroline-Thais/restaurant-system">--repositório--</a></p>
-<p>🌱 Estou fazendo o curso Formação Node Completa, do Guia do programador (RECOMENDO!!!) e estudando React.</p>
 <p>📫 Para entrar em contato comigo: caroline.thais.dev@gmail.com </p>
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
 <h3>Welcome to my repository!<h3>
   
-<p>My name is Thaís Caroline Silva, I'm a computer technician for internet (programming) by Senac.</p>
-  
+<p>My name is Thaís Caroline Silva, I'm a computer technician for internet (programming) by Senac.</p> 
 <p>🔭Now I'm building a restaurant system with Node.js => <a href="https://github.com/Caroline-Thais/restaurant-system">--repository--</a></p>
-<p>🌱 I'm coursing the Complete Node Training course, from the Programmer's Guide (I HIGHLY RECOMMEND!!!) and studying React.</p>
 <p>📫 To contact me: caroline.thais.dev@gmail.com </p>
   
 <!--Links para linkedin e gmail:-->
