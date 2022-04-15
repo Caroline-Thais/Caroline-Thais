@@ -8,7 +8,7 @@
 <!--Links para linkedin e gmail:-->
 <p><a href="https://www.linkedin.com/in/thais-caroline-silva/" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/1400/1400486.png" height="40em" target="_blank"></a>
 &nbsp;&nbsp;
-<a href="mailto:caroline.thais.dev@gmail.com"><img src="https://cdn-icons.flaticon.com/png/512/720/premium/720277.png?token=exp=1649350494~hmac=ae60a556471e844331c3c45a27242a34" height="40em" target="_blank"></a></p>
+<a href="mailto:caroline.thais.dev@gmail.com"><img src="https://cdn-icons.flaticon.com/png/512/2671/premium/2671915.png?token=exp=1650032237~hmac=2004531f2084eec434306a2a39f2b371" height="50em" target="_blank"></a></p>
 
 <!--Most used languages -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
