@@ -6,7 +6,7 @@
 <p>📫 Para entrar em contato comigo: caroline.thais.dev@gmail.com </p>
 
 <!--Links para linkedin e gmail:-->
-<p><a href="https://www.linkedin.com/in/tha%C3%ADs-caroline-silva-44362b230/" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="40em" target="_blank"></a>
+<p><a href="https://www.linkedin.com/in/thais-caroline-silva/" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/1400/1400486.png" height="40em" target="_blank"></a>
 &nbsp;&nbsp;
 <a href="mailto:caroline.thais.dev@gmail.com"><img src="https://cdn-icons.flaticon.com/png/512/720/premium/720277.png?token=exp=1649350494~hmac=ae60a556471e844331c3c45a27242a34" height="40em" target="_blank"></a></p>
 
