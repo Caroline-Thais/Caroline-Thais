@@ -16,13 +16,14 @@
 </a></p>
 
 
-<div display="inline">
+<!--<div display="inline">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" height="50em">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919828.png" height="50em">
 <img src="https://cdn-icons-png.flaticon.com/512/524/524545.png" height="50em">
 <img src="https://cdn-icons-png.flaticon.com/512/524/524554.png" height="50em">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" height="50em">
-<img src="https://cdn-icons-png.flaticon.com/512/603/603197.png" height="50em"></div>
+<img src="https://cdn-icons-png.flaticon.com/512/603/603197.png" height="50em">
+</div>-->
 
 <!--Here are some ideas to get you started:
 
