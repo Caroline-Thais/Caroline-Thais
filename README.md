@@ -1,14 +1,13 @@
 <h3>Bem vindo(a) ao meu repositório!✨✨✨</h3>
 
-<p>Meu nome é Thaís Caroline Silva, sou técnica em informática para internet - programação pelo Senac.</p>
-<p>🔭No momento estou desenvolvendo dois projetos pessoais, um site de vagas e um aplicativo com react-native.</p
+Meu nome é Thaís Caroline Silva, sou técnica em informática para internet - programação pelo Senac.<br>
+🔭No momento estou desenvolvendo dois projetos pessoais, um site de vagas e um aplicativo com react-native.
 
-<p>📫 Para entrar em contato comigo: caroline.thais.dev@gmail.com </p>
-
+📫 Para entrar em contato comigo: caroline.thais.dev@gmail.com 
 <!--Links para linkedin e gmail:-->
-<p><a href="https://www.linkedin.com/in/thais-caroline-silva/" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/1400/1400486.png" height="40em" target="_blank"></a>
+<a href="https://www.linkedin.com/in/thais-caroline-silva/" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/1400/1400486.png" height="40em" target="_blank"></a> Linkedin
 &nbsp;&nbsp;
-<a href="mailto:caroline.thais.dev@gmail.com"><img src="https://cdn-icons.flaticon.com/png/512/5942/premium/5942471.png?token=exp=1651877834~hmac=125bb0f8997c5feb4bb50c11180dee80" height="45em" target="_blank"></a></p>
+<!--<a href="mailto:caroline.thais.dev@gmail.com"><img src="https://cdn-icons.flaticon.com/png/512/5942/premium/5942471.png?token=exp=1651877834~hmac=125bb0f8997c5feb4bb50c11180dee80" height="45em" target="_blank"></a>-->
 
 <!--Most used languages -->
 <p><a href="https://github.com/anuraghazra/github-readme-stats">
