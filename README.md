@@ -1,7 +1,7 @@
 <h3>Bem vindo(a) ao meu repositório!✨✨✨</h3>
 
 Meu nome é Thaís Caroline Silva, sou técnica em informática para internet - programação pelo Senac.<br>
-🔭No momento estou desenvolvendo dois projetos pessoais, um site de vagas e um aplicativo com react-native.
+🔭 No momento estou desenvolvendo dois projetos pessoais, um site de vagas e um aplicativo com react-native.
 
 📫 Para entrar em contato comigo: caroline.thais.dev@gmail.com 
 <!--Links para linkedin e gmail:-->
