@@ -1,9 +1,9 @@
-<h3>Bem vindo(a) ao meu repositório!✨✨✨</h3>
+<h3>Welcome to my Github!✨✨✨</h3>
 
-Meu nome é Thaís Caroline Silva, sou técnica em informática para internet - programação pelo Senac.<br>
-🔭 No momento estou desenvolvendo dois projetos pessoais, um site de vagas e um aplicativo com react-native.
+My name is Thaís Caroline Silva.<br>
+🔭 I’m currently working as a software developer intern.<br>
 
-📫 Para entrar em contato comigo: caroline.thais.dev@gmail.com 
+📫 How to reach me: caroline.thais.dev@gmail.com 
 <!--Links para linkedin e gmail:-->
 <a href="https://www.linkedin.com/in/thais-caroline-silva/" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/1400/1400486.png" height="40em" target="_blank"></a> Linkedin
 &nbsp;&nbsp;
