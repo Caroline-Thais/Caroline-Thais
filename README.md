@@ -3,6 +3,8 @@
 My name is Thaís Caroline Silva.<br>
 🔭 I’m currently working as a software developer intern.<br>
 
+Portuguese Blog: https://carolinethaisdev.wixsite.com/sweet-swift
+
 📫 How to reach me: caroline.thais.dev@gmail.com 
 <!--Links para linkedin e gmail:-->
 <a href="https://www.linkedin.com/in/thais-caroline-silva/" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/1400/1400486.png" height="40em" target="_blank"></a> Linkedin
