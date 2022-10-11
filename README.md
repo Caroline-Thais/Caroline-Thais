@@ -1,9 +1,10 @@
 <h3>Welcome to my Github!✨✨✨</h3>
 
 My name is Thaís Caroline Silva.<br>
-🔭 I’m currently working as a software developer intern.<br>
+🔭 I’m a fullstack web developer.<br>
+🌱 I’m currently learning AWS.
 
-Portuguese Blog: https://carolinethaisdev.wixsite.com/sweet-swift
+My portfolio: https://caroline-thais.github.io/meuportfolio/
 
 📫 How to reach me: caroline.thais.dev@gmail.com 
 <!--Links para linkedin e gmail:-->
@@ -13,14 +14,14 @@ Portuguese Blog: https://carolinethaisdev.wixsite.com/sweet-swift
 
 
 
-<!--<div display="inline">
+<div display="inline">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" height="50em">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919828.png" height="50em">
 <img src="https://cdn-icons-png.flaticon.com/512/524/524545.png" height="50em">
 <img src="https://cdn-icons-png.flaticon.com/512/524/524554.png" height="50em">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" height="50em">
 <img src="https://cdn-icons-png.flaticon.com/512/603/603197.png" height="50em">
-</div>-->
+</div>
 
 <!--Here are some ideas to get you started:
 
