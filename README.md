@@ -21,6 +21,7 @@ My portfolio: https://caroline-thais.github.io/meuportfolio/
 <img src="https://cdn-icons-png.flaticon.com/512/524/524554.png" height="50em">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" height="50em">
 <img src="https://cdn-icons-png.flaticon.com/512/603/603197.png" height="50em">
+<img src="https://cdn-icons-png.flaticon.com/512/919/919851.png"height="50em">
 </div>
 
 <!--Here are some ideas to get you started:
