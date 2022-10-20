@@ -2,7 +2,6 @@
 
 My name is Thaís Caroline Silva.<br>
 🔭 I’m a fullstack web developer.<br>
-🌱 I’m currently learning AWS.
 
 My portfolio: https://caroline-thais.github.io/meuportfolio/
 
