@@ -12,6 +12,7 @@ My portfolio: https://caroline-thais.github.io/meuportfolio/
 &nbsp;&nbsp;
 <!--<a href="mailto:caroline.thais.dev@gmail.com"><img src="https://cdn-icons.flaticon.com/png/512/5942/premium/5942471.png?token=exp=1651877834~hmac=125bb0f8997c5feb4bb50c11180dee80" height="45em" target="_blank"></a>-->
 
+![gif](https://user-images.githubusercontent.com/76595905/196978295-39fc6df6-f8a6-404b-9a57-2a97e048bb6f.gif)
 
 
 <div display="inline">
