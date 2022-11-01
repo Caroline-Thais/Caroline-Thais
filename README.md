@@ -16,13 +16,15 @@ My portfolio: https://caroline-thais.github.io/meuportfolio/
 
 
 <div display="inline">
+<img src="https://cdn-icons-png.flaticon.com/512/381/381704.png" height="50em">
+<img src="https://cdn-icons-png.flaticon.com/512/2748/2748383.png" height="50em" borderRadius="50%">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" height="50em">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919828.png" height="50em">
 <img src="https://cdn-icons-png.flaticon.com/512/524/524545.png" height="50em">
 <img src="https://cdn-icons-png.flaticon.com/512/524/524554.png" height="50em">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" height="50em">
 <img src="https://cdn-icons-png.flaticon.com/512/603/603197.png" height="50em">
-<img src="https://cdn-icons-png.flaticon.com/512/919/919851.png"height="50em">
+<img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" height="50em">
 </div>
 
 <!--Here are some ideas to get you started:
