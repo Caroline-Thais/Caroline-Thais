@@ -4,7 +4,6 @@ My name is Thaís Caroline Silva.<br>
 🔭 I’m a fullstack developer.<br>
 🌱 I’m currently learning AWS here: https://www.udemy.com/course/aws-certified-cloud-practitioner-new
 
-My portfolio: https://caroline-thais.github.io/meuportfolio/
 
 📫 How to reach me: caroline.thais.dev@gmail.com 
 <!--Links para linkedin e gmail:-->
