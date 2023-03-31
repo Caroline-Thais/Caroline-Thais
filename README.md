@@ -1,7 +1,8 @@
 <h3>Welcome to my Github!✨✨✨</h3>
 
 My name is Thaís Caroline Silva.<br>
-🔭 I’m a fullstack developer.<br>
+🔭 I started programming as a full stack (node-react) and now I work with SAP.<br>
+
 🌱 I’m currently learning AWS here: https://www.udemy.com/course/aws-certified-cloud-practitioner-new
 
 
@@ -15,8 +16,6 @@ My name is Thaís Caroline Silva.<br>
 
 
 <div display="inline">
-<img src="https://cdn-icons-png.flaticon.com/512/381/381704.png" height="50em">
-<img src="https://cdn-icons-png.flaticon.com/512/2748/2748383.png" height="50em" borderRadius="50%">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" height="50em">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919828.png" height="50em">
 <img src="https://cdn-icons-png.flaticon.com/512/524/524545.png" height="50em">
