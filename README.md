@@ -3,7 +3,7 @@
 My name is Thaís Caroline Silva.<br>
 🔭 I started programming as a full stack (node-react) and now I work with SAP.<br>
 
-🌱 I’m currently learning AWS here: https://www.udemy.com/course/aws-certified-cloud-practitioner-new
+🌱 I’m currently studying iOS development, specially with UIKit and without using storyboards.
 
 
 📫 How to reach me: caroline.thais.dev@gmail.com 
@@ -16,6 +16,7 @@ My name is Thaís Caroline Silva.<br>
 
 
 <div display="inline">
+<img src="https://cdn-icons-png.flaticon.com/512/3670/3670396.png" height="50em">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" height="50em">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919828.png" height="50em">
 <img src="https://cdn-icons-png.flaticon.com/512/524/524545.png" height="50em">
