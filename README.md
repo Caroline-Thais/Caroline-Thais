@@ -3,6 +3,8 @@
 My name is Thaís Caroline Silva.<br>
 🔭 I started programming as a full stack (node-react) and now I work with SAP.<br>
 
+I love studying new technologies.
+
 🌱 I’m currently studying iOS development, specially with UIKit and without using storyboards.
 
 
