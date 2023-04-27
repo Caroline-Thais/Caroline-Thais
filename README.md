@@ -5,7 +5,7 @@ My name is Thaís Caroline Silva.<br>
 
 I love studying new technologies.
 
-🌱 I’m currently studying iOS development, specially with UIKit and without using storyboards.
+🌱 I’m currently studying Java.
 
 
 📫 How to reach me: caroline.thais.dev@gmail.com 
