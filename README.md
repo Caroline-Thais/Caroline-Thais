@@ -18,6 +18,7 @@ I love studying new technologies.
 
 
 <div display="inline">
+<img src="https://img.icons8.com/?size=512&id=46630&format=png" height="55em">
 <img src="https://cdn-icons-png.flaticon.com/512/3670/3670396.png" height="50em">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" height="50em">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919828.png" height="50em">
