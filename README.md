@@ -1,11 +1,11 @@
 <h3>Welcome to my Github!✨✨✨</h3>
 
 My name is Thaís Caroline Silva.<br>
-🔭 I started programming as a full stack (node-react) and now I work with SAP.<br>
+<!--🔭 I started programming as a full stack (node-react) and now I work with SAP.<br>
 
 I love studying new technologies.
 
-🌱 I’m currently studying Java.
+🌱 I’m currently studying Java.-->
 
 
 📫 How to reach me: caroline.thais.dev@gmail.com 
