@@ -17,8 +17,8 @@ I love studying new technologies.
 ![gif](https://user-images.githubusercontent.com/76595905/196978295-39fc6df6-f8a6-404b-9a57-2a97e048bb6f.gif)
 
 
-<div display="inline">
-<img src="https://img.icons8.com/?size=512&id=46630&format=png" height="55em">
+<!--<div display="inline">
+<img src="https://img.icons8.com/?size=512&id=46630&format=png" height="60em">
 <img src="https://cdn-icons-png.flaticon.com/512/3670/3670396.png" height="50em">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" height="50em">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919828.png" height="50em">
