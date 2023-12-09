@@ -1,16 +1,10 @@
-<h3>Welcome to my Github!✨✨✨</h3>
+<h3>✨✨✨Bem vindo(a) ao meu Github!✨✨✨</h3>
 
-My name is Thaís Caroline Silva.<br>
-<!--🔭 I started programming as a full stack (node-react) and now I work with SAP.<br>
-
-I love studying new technologies.
-
-🌱 I’m currently studying Java.-->
-
-
-📫 How to reach me: caroline.thais.dev@gmail.com 
-<!--Links para linkedin e gmail:-->
-<a href="https://www.linkedin.com/in/thais-caroline-silva/" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/1400/1400486.png" height="40em" target="_blank"></a> Linkedin
+Meu nome é Thaís Caroline Silva.<br>
+Sou técnica em programação pelo Senac e atualmente curso Análise e desenvolvimento de sistemas.<br>
+🔭 Meu objetivo é trabalhar com programação back end com Java e Spring.<br>
+🌱 Atualmente estou estudando Angular e aprofundando meus conhecimentos em Spring/Spring Boot.<br>
+📫 How to reach me: caroline.thais.dev@gmail.com | <a href="https://www.linkedin.com/in/thais-caroline-silva/" rel="nofollow">Linkedin</a> <img src="https://cdn-icons-png.flaticon.com/512/1400/1400486.png" height="20em" target="_blank">
 &nbsp;&nbsp;
 <!--<a href="mailto:caroline.thais.dev@gmail.com"><img src="https://cdn-icons.flaticon.com/png/512/5942/premium/5942471.png?token=exp=1651877834~hmac=125bb0f8997c5feb4bb50c11180dee80" height="45em" target="_blank"></a>-->
 
@@ -37,6 +31,6 @@ I love studying new technologies.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 
 - ⚡ Fun fact: ...
 -->
